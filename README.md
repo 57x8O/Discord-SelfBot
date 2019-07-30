@@ -1,10 +1,8 @@
 [<img src="https://img.shields.io/badge/discord.py-rewrite-blue.svg?style=flat-square">](https://github.com/Rapptz/discord.py/tree/rewrite)
 [<img src="https://img.shields.io/badge/python-3.6-brightgreen.svg?style=flat-square">](https://www.python.org/downloads/release/python-360/)
-[<img src="https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square">](https://github.com/IgneelDxD/Discord-SelfBot/blob/master/LICENSE)
-[![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=I%20just%20found%20@IgneelDxD%27s%20awesome%20Discord%20SelfBot,%20check%20it%20out!%20https://igneeldxd.github.io/Discord-SelfBot/&source=webclient)
+[<img src="https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square">](https://github.com/Balerionic/Discord-SelfBot/blob/master/LICENSE)
 
-
-# IgneelDxD's Discord SelfBot
+# Discord SelfBot
 
 Dropped development beacuse of Discords stance towards Selfbots.
 
