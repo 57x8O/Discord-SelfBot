@@ -4,7 +4,7 @@
 
 # Discord SelfBot
 
-Dropped development beacuse of Discords stance towards Selfbots.
+```Dropped development``` beacuse of Discords stance towards Selfbots.
 
 With a little cleanup here and there it should however still work with the rewrite version of discord.py 
 
